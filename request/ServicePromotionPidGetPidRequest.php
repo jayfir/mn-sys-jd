@@ -1,6 +1,6 @@
 <?php
 
-namespace jayfir\jd\jd\request;
+namespace jayfir\jd\request;
 
 class ServicePromotionPidGetPidRequest
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace jayfir\jd\jd;
+namespace jayfir\jd;
 
 class TopLogger
 {

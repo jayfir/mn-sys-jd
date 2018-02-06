@@ -1,10 +1,10 @@
 <?php
 
-namespace jayfir\jd\jd;
+namespace jayfir\jd;
 
 use Yii;
 use yii\base\Component;
-use jayfir\jd\jd\TopLogger;
+use jayfir\jd\TopLogger;
 
 class JdClient extends Component
 {

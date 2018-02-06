@@ -1,6 +1,6 @@
 <?php
 
-namespace jayfir\jd\jd;
+namespace jayfir\jd;
 
 /**
  * API入参静态检查类
